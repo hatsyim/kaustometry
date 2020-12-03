@@ -11,7 +11,7 @@
 #' @author
 #' Ghanimah Abuhaimed, Edwin Guevara Romero, Mohammad Hasyim Taufik
 #' @examples
-#' load_calculation("../../final_project/HFO Feb.xlsx")
+#' load_calculation("../../final_project/example.xlsx")
 load_calculation <- function(fileDir)
 {
 

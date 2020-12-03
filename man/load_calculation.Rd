@@ -10,13 +10,13 @@ load_calculation(fileDir)
 \item{fileDir}{the relative path directory}
 }
 \value{
-data frame
+data framelib
 }
 \description{
 This allows to simultaneously load all the sheets into a single data frame.
 }
 \examples{
-load_calculation("../../final_project/HFO Feb.xlsx")
+load_calculation("../../final_project/example.xlsx")
 }
 \author{
 Ghanimah Abuhaimed, Edwin Guevara Romero, Mohammad Hasyim Taufik
